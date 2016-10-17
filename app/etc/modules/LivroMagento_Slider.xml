@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <LivroMagento_Slider>
+            <active>true</active>
+            <codePool>local</codePool>
+        </LivroMagento_Slider>
+    </modules>
+</config>
